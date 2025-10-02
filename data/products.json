@@ -1,1 +1,91 @@
-[]
+[{
+        "id": "1",
+        "name": "Premium Facial Tissues",
+        "price": 45.00,
+        "description": "Ultra-soft 3-ply facial tissues for gentle care. Hypoallergenic and lint-free.",
+        "category": "Facial Tissues",
+        "stock": 150,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Bamboo Eco Tissues",
+        "price": 65.00,
+        "description": "Environmentally friendly tissues made from 100% bamboo. Sustainable and biodegradable.",
+        "category": "Eco-Friendly",
+        "stock": 100,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Antibacterial Handkerchiefs",
+        "price": 120.00,
+        "description": "Reusable handkerchiefs with antibacterial coating. Washable and durable.",
+        "category": "Handkerchiefs",
+        "stock": 75,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Luxury Bathroom Tissue",
+        "price": 85.00,
+        "description": "Premium 4-ply bathroom tissue with aloe vera infusion. Extra soft and strong.",
+        "category": "Bathroom Tissue",
+        "stock": 200,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Pocket Travel Pack",
+        "price": 25.00,
+        "description": "Compact tissue pack for on-the-go use. Perfect for travel and daily carry.",
+        "category": "Travel Tissues",
+        "stock": 300,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Scented Deluxe Tissues",
+        "price": 55.00,
+        "description": "Lightly scented tissues with lavender essence. Soothing and refreshing.",
+        "category": "Scented Tissues",
+        "stock": 120,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Allergy Relief Tissues",
+        "price": 60.00,
+        "description": "Extra gentle tissues with lotion infusion. Perfect for sensitive skin and allergy season.",
+        "category": "Medical Grade",
+        "stock": 90,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Jumbo Family Pack",
+        "price": 180.00,
+        "description": "Economy size pack with 400 tissues. Great value for families.",
+        "category": "Family Pack",
+        "stock": 80,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Colorful Printed Tissues",
+        "price": 50.00,
+        "description": "Vibrant printed tissues with fun designs. Adds color to your daily routine.",
+        "category": "Decorative Tissues",
+        "stock": 110,
+        "image": "/images/placeholder.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Premium Napkins",
+        "price": 95.00,
+        "description": "High-quality dinner napkins for formal occasions. Strong and absorbent.",
+        "category": "Table Napkins",
+        "stock": 60,
+        "image": "/images/placeholder.jpg"
+    }
+]

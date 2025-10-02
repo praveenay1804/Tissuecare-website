@@ -5,7 +5,7 @@
         "description": "Ultra-soft 3-ply facial tissues for gentle care. Hypoallergenic and lint-free.",
         "category": "Facial Tissues",
         "stock": 150,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p1.jpg"
     },
     {
         "id": "2",
@@ -14,7 +14,7 @@
         "description": "Environmentally friendly tissues made from 100% bamboo. Sustainable and biodegradable.",
         "category": "Eco-Friendly",
         "stock": 100,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p2.jpg"
     },
     {
         "id": "3",
@@ -23,7 +23,7 @@
         "description": "Reusable handkerchiefs with antibacterial coating. Washable and durable.",
         "category": "Handkerchiefs",
         "stock": 75,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p3.jpg"
     },
     {
         "id": "4",
@@ -32,7 +32,7 @@
         "description": "Premium 4-ply bathroom tissue with aloe vera infusion. Extra soft and strong.",
         "category": "Bathroom Tissue",
         "stock": 200,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p4.jpg"
     },
     {
         "id": "5",
@@ -41,7 +41,7 @@
         "description": "Compact tissue pack for on-the-go use. Perfect for travel and daily carry.",
         "category": "Travel Tissues",
         "stock": 300,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p5.jpg"
     },
     {
         "id": "6",
@@ -50,7 +50,7 @@
         "description": "Lightly scented tissues with lavender essence. Soothing and refreshing.",
         "category": "Scented Tissues",
         "stock": 120,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p6.jpg"
     },
     {
         "id": "7",
@@ -59,7 +59,7 @@
         "description": "Extra gentle tissues with lotion infusion. Perfect for sensitive skin and allergy season.",
         "category": "Medical Grade",
         "stock": 90,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p7.jpg"
     },
     {
         "id": "8",
@@ -68,7 +68,7 @@
         "description": "Economy size pack with 400 tissues. Great value for families.",
         "category": "Family Pack",
         "stock": 80,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p8.jpg"
     },
     {
         "id": "9",
@@ -77,7 +77,7 @@
         "description": "Vibrant printed tissues with fun designs. Adds color to your daily routine.",
         "category": "Decorative Tissues",
         "stock": 110,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p9.jpg"
     },
     {
         "id": "10",
@@ -86,6 +86,6 @@
         "description": "High-quality dinner napkins for formal occasions. Strong and absorbent.",
         "category": "Table Napkins",
         "stock": 60,
-        "image": "/images/placeholder.jpg"
+        "image": "/images/p10.jpg"
     }
 ]
